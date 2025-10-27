@@ -15,21 +15,21 @@ print(pos)
 print(neg)
 
 
-x=int(input("enter the nuber to be search"))
-if x>=0:
-    print(pos[x])
-else:
-    x=x*-1
-    print(neg[x])
-
+# x=int(input("enter the nuber to be search"))
+# if x>=0:
+#     print(pos[x])
+# else:
+#     x=x*-1
+#     print(neg[x])
+# #
 print("number -   count")
 
-# for i in pos:        #countitng the number of times a each number occur in  positive list(here only counted which number is repeated)
-#     if(pos[i]!=0):
-#         print(i," ",pos[i])
-# for i in neg:        #countitng the number of times a each number occur in  negative  list(here only counted which number is repeated)
-#     if(neg[i]!=0):
-#         print(i*-1," ",neg[i])
+for i in pos:                          #countitng the number of times a each number occur in  positive list(here only counted which number is repeated)
+    if(pos[i]!=0):
+        print(i," ",pos[i])
+for i in neg:                          #countitng the number of times a each number occur in  negative  list(here only counted which number is repeated)
+    if(neg[i]!=0):
+        print(i*-1," ",neg[i])
 
 
 
