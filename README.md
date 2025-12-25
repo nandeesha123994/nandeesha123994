@@ -18,19 +18,17 @@ As a **fresher**, I am actively seeking opportunities to grow and contribute to 
 
 * HTML5, CSS3, JavaScript
 * React.js
-* Tailwind CSS
 
 ### Backend
 
 * Python
 * Django / Flask
-* REST API Development
+  
 
 ### Databases
 
 * MySQL
-* SQLite
-* MongoDB (Basics)
+  
 
 ### Tools
 
@@ -59,3 +57,4 @@ As a **fresher**, I am actively seeking opportunities to grow and contribute to 
 ## 💡 Quote
 
 > “Code is like humor. When you have to explain it, it’s bad.”
+
